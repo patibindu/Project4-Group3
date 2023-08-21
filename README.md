@@ -1,6 +1,20 @@
-# Project4-Group3
-Final Project
+# Project 4: Diabetes in America
 
-Proposal
+### Group Members: Juhi, Kesha, Lora, and Hima
 
+### Description:
 The goal of our project is to understand diabetes symptoms and be able to predict for a patient’s risk of the disease. We will analyze the risk factors contributing to the disease and discover the relationships between risk factors and diagnosis.
+
+### Team Member Responsiblities: 
+1. M
+    
+### Files:
+
+
+### Conclusion:
+???
+
+### Links:
+[Presentation](https://docs.google.com/presentation/d/1Fwp0ApqPC1A-W60X4_651ZGxSt-mDuQlyu1uq_cue68/edit?usp=sharing) 
+<br> [Dataset](https://www.kaggle.com/datasets/deependraverma13/diabetes-healthcare-comprehensive-dataset?resource=download) 
+<br> [Dashboard](???)
