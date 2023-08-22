@@ -13,7 +13,7 @@ The goal of our project is to understand diabetes symptoms and be able to predic
 5. Addressing Imbalanced Data (Min/max Scaling and ROC/AUC curve skewed data: shows that data is imbalanced) - Everyone
 6. Build the Machine Learning model- Hima and Kesha
 7. Testing Machine Learning model-Juhi and Kesha
-8. Perform SQL analysis - Lora
+8. Create SQL database - Lora
 9. Build Tableau dashboard - Hima and Lora
 10. Develop presentation - Everyone
 
