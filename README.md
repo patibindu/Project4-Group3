@@ -14,7 +14,7 @@ The goal of our project is to understand diabetes symptoms and be able to predic
 6. Build the Machine Learning model- Hima and Kesha
 7. Testing Machine Learning model-Juhi and Kesha
 8. Perform SQL analysis - Lora
-9. Build Tableau dashboard - Hima
+9. Build Tableau dashboard - Hima and Lora
 10. Develop presentation - Everyone
 
 ### Files:
