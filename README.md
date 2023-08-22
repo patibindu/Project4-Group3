@@ -18,7 +18,7 @@ The goal of our project is to understand diabetes symptoms and be able to predic
 10. Develop presentation: Everyone
 
 ### Files:
-Descriptive Analysis: files
+Descriptive Analysis: diabetes_prediction_dataset.csv, Descriptive_analysis.ipynb, histogram_A1c.jpg, histogram_age.jpg, histogram_all.jpg, histogram_bmi.jpg, and histogram_glucose.jpg
 
 ### Conclusion:
 ???
