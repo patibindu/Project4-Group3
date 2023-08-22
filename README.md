@@ -25,5 +25,5 @@ The goal of our project is to understand diabetes symptoms and be able to predic
 
 ### Links:
 [Presentation](https://docs.google.com/presentation/d/1Fwp0ApqPC1A-W60X4_651ZGxSt-mDuQlyu1uq_cue68/edit?usp=sharing) 
-<br> [Dataset](https://www.kaggle.com/datasets/deependraverma13/diabetes-healthcare-comprehensive-dataset?resource=download) 
+<br> [Dataset](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset) 
 <br> [Dashboard](???)
