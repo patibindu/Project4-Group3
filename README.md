@@ -18,7 +18,7 @@ The goal of our project is to understand diabetes symptoms and be able to predic
 10. Develop presentation: Everyone
 
 ### Files:
-Descriptive Analysis: 
+Descriptive Analysis: files
 
 ### Conclusion:
 ???
