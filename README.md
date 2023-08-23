@@ -20,6 +20,8 @@ The goal of our project is to understand diabetes symptoms and be able to predic
 ### Files:
 Descriptive Analysis: diabetes_prediction_dataset.csv, Descriptive_analysis.ipynb, histogram_A1c.jpg, histogram_age.jpg, histogram_bmi.jpg, histogram_glucose.jpg, and histogram_all.jpg
 
+Tableau: National, North Carolina, 
+
 ### Conclusion:
 ???
 
