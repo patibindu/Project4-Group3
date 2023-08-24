@@ -13,9 +13,8 @@ The goal of our project is to understand diabetes symptoms and be able to predic
 5. Addressing Imbalanced Data (Min/max Scaling and ROC/AUC curve skewed data: shows that data is imbalanced): Everyone
 6. Build the Machine Learning (ML) model: Hima, Kesha
 7. Test ML model: Juhi, Kesha
-8. Create SQL database: Lora
-9. Build Tableau dashboard: Hima, Lora
-10. Develop presentation: Everyone
+8. Build Tableau dashboard: Lora, Juhi
+9. Develop presentation: Everyone
 
 ### Files:
 Descriptive Analysis: diabetes_prediction_dataset.csv, Descriptive_analysis.ipynb, histogram_A1c.jpg, histogram_age.jpg, histogram_bmi.jpg, histogram_glucose.jpg, and histogram_all.jpg
