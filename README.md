@@ -27,5 +27,5 @@ Tableau: National, North Carolina,
 [Presentation](https://docs.google.com/presentation/d/1Fwp0ApqPC1A-W60X4_651ZGxSt-mDuQlyu1uq_cue68/edit?usp=sharing) 
 <br> [ML Dataset](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset) 
 <br> [Dashboard](???)
-<br> [Tableau dashboard](https://public.tableau.com/shared/NTWG8GRDJ?:display_count=n&:origin=viz_share_link)https://public.tableau.com/shared/NTWG8GRDJ?:display_count=n&:origin=viz_share_link)
+<br> [Tableau dashboard] (https://public.tableau.com/shared/NTWG8GRDJ?:display_count=n&:origin=viz_share_link)https://public.tableau.com/shared/NTWG8GRDJ?:display_count=n&:origin=viz_share_link)
 
