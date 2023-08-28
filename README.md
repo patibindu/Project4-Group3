@@ -3,7 +3,7 @@
 ### Group Members: Juhi, Kesha, Lora, and Hima
 
 ### Description:
-The goal of our project is to understand diabetes symptoms and be able to predict for a patient’s risk of the disease. We will analyze the risk factors contributing to the disease and discover the relationships between risk factors and diagnosis.
+The goal of our project is to understand diabetes prevalence and to build a machine learning model that accurately predicts diabetes in patients using medical history and demographic information.
 
 ### Team Member Responsiblities: 
 1. Maintain READ.me: Juhi, Lora
@@ -26,5 +26,4 @@ Tableau Dashboard: Global, National, and North Carolina
 ### Links:
 [Presentation](https://docs.google.com/presentation/d/1Fwp0ApqPC1A-W60X4_651ZGxSt-mDuQlyu1uq_cue68/edit?usp=sharing) 
 <br> [ML Dataset](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset) 
-<br> [Dashboard](???)
 <br>[Tableau dashboard](https://public.tableau.com/shared/NTWG8GRDJ?:display_count=n&:origin=viz_share_link)
