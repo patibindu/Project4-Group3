@@ -11,7 +11,7 @@ The goal of our project is to understand diabetes prevalence and to build a mach
 3. Clean data: Everyone
 4. Perform Descriptive Analysis: Juhi
 5. Address Imbalanced Data: Hima, Kesha
-6. Train and Test the Machine Learning (ML) model: Hima, Kesha
+6. Train and Test the Machine Learning model: Hima, Kesha
 7. Build Tableau dashboard: Lora, Juhi
 8. Develop presentation: Everyone
 
