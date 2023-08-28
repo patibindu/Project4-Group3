@@ -10,7 +10,7 @@ The goal of our project is to understand diabetes symptoms and be able to predic
 2. Brainstorm about this project: Everyone
 3. Clean data: Everyone
 4. Perform Descriptive Analysis: Juhi
-5. Addressing Imbalanced Data (Min/max Scaling and ROC/AUC curve skewed data): Hima, Kesha
+5. Address Imbalanced Data: Hima, Kesha
 6. Train and Test the Machine Learning (ML) model: Hima, Kesha
 7. Build Tableau dashboard: Lora, Juhi
 8. Develop presentation: Everyone
