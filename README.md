@@ -23,7 +23,7 @@ Descriptive Analysis: diabetes_prediction_dataset.csv, Descriptive_analysis.ipyn
 Machine Learning Model: 
 
 ### Conclusion:
-Through the data analysis presented, there are relationships between variables and diabetes. Age, gender and location can be correlated with diagnosed diabetes. The data analyzed can build a further understanding into diabetes prevalence and predicting diabetes in individuals using demographics and risk factors. 
+Through the data analysis presented, there are relationships between variables and diabetes. Age, gender and location can be correlated with diagnosed diabetes. The data analyzed can build a further understanding into diabetes prevalence and predicting diabetes in individuals using demographic and risk factor variables. 
 
 ### Links:
 [Presentation](https://docs.google.com/presentation/d/1Fwp0ApqPC1A-W60X4_651ZGxSt-mDuQlyu1uq_cue68/edit?usp=sharing) 
