@@ -1,4 +1,4 @@
-# Project 4: Diabetes in America
+# Project 4: Data Visualization and Machine Learning on Diabetes Dataset
 
 ### Group Members: Juhi, Kesha, Lora, and Hima
 
