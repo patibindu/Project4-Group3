@@ -11,7 +11,7 @@ Using data from the World Bank, the IDF Diabetes Atlas, and the CDC, a Tableau d
 1. Maintain READ.me: Juhi, Lora
 2. Brainstorm about this project: Everyone
 3. Build Tableau dashboard: Lora, Juhi
-4. Clean data: Everyone
+4. Clean ML data: Everyone
 5. Perform Descriptive Analysis: Juhi
 6. Create SQLite database: Hima
 7. Address Imbalanced Data: Hima, Kesha
