@@ -23,7 +23,7 @@ Tableau Dashboard: Global, National, and North Carolina
 
 Descriptive Analysis: diabetes_prediction_dataset.csv, Descriptive_analysis.ipynb, Histogram Images
 
-SQLite: sql.ipynp, diabetes_prediction_sqlite.csv, diabetes_prediction.db
+SQLite: sql.ipynp, diabetes_prediction_sqlite.csv, diabetes_prediction.db, sql.ipynb
 
 Machine Learning Model: diabetes_prediction_dataset.csv, Final_ML.ipynb, ML Images
 
