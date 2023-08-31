@@ -28,7 +28,7 @@ SQLite: sql.ipynp, diabetes_prediction_sqlite.csv, diabetes_prediction.db
 Machine Learning Model: pairplot.png, imbalanced_target.png, heatmap.png, diabetes_prediction_dataset.csv, Final_ML.ipynb, Features_
 
 ### Conclusion:
-The data analyzed can build a further understanding into diabetes prevalence and predicting diabetes in individuals using demographic and health variables. Based on the data vizualization and machine learning, there is a positive correlation between HbA1c and blood glucose levels and the risk of diabetes. The Kaggle dataset used was imbalanced. After performing balanced accuracy score using SMOTE for all classification machine learning models, the random forest classifier demonstrated the highest level of accuracy. This machine learning model presents as a solid foundation to be built upon to help health care professionals easily assess patients for risk for diabetes. 
+The data analyzed can build a further understanding into diabetes prevalence and predicting diabetes in individuals using demographic and health variables. Based on the data visualization and machine learning, there is a positive correlation between HbA1c and blood glucose levels and the risk of diabetes. The Kaggle dataset used was imbalanced. After performing balanced accuracy score using SMOTE for all classification machine learning models, the random forest classifier demonstrated the highest level of accuracy. This machine learning model presents as a solid foundation to be built upon to help health care professionals easily assess patients for risk for diabetes. 
 
 ### Links:
 [Presentation](https://docs.google.com/presentation/d/1Fwp0ApqPC1A-W60X4_651ZGxSt-mDuQlyu1uq_cue68/edit?usp=sharing) 
