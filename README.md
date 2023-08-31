@@ -30,7 +30,7 @@ Descriptive Analysis: diabetes_prediction_dataset.csv, Descriptive_analysis.ipyn
 Machine Learning Model: diabetes_prediction_dataset.csv, Final_ML.ipynb, ML Images
 
 ### Conclusion:
-This project focused on data visualization and machine learning to better understand diabetes prevalence and how diabetes relates to demographic information and medical history. Findings show that there is a positive correlation between HbA1c and blood glucose levels and the risk of diabetes. The random forest algorithm demonstrated the highest level of accuracy compared to all remaining classification machine learning models. This machine learning model presents as a solid foundation to be built upon to help health care professionals easily assess patients for risk for diabetes. 
+This project focused on data visualization and machine learning to better understand diabetes prevalence and how diabetes relates to demographic information and medical history. Findings show that there is a positive correlation between HbA1c and blood glucose levels and the risk of diabetes. The random forest algorithm demonstrated the highest level of accuracy compared to all other classification machine learning models. This random forest machine learning model presents as a solid foundation to be built upon to help healthcare professionals easily assess patients for risk for diabetes. 
 
 ### Links:
 [Presentation](https://docs.google.com/presentation/d/1Fwp0ApqPC1A-W60X4_651ZGxSt-mDuQlyu1uq_cue68/edit?usp=sharing) 
