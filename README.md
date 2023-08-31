@@ -11,12 +11,13 @@ DB browser in conjuction with SQLite were used to create a database for machine 
 ### Team Member Responsiblities: 
 1. Maintain READ.me: Juhi, Lora
 2. Brainstorm about this project: Everyone
-3. Clean data: Everyone
-4. Perform Descriptive Analysis: Juhi
-5. Address Imbalanced Data: Hima, Kesha
-6. Train and Test the Machine Learning model: Hima, Kesha
-7. Build Tableau dashboard: Lora, Juhi
-8. Develop presentation: Everyone
+3. Build Tableau dashboard: Lora, Juhi
+4. Clean data: Everyone
+5. Perform Descriptive Analysis: Juhi
+6. Create SQLite database: Hima
+7. Address Imbalanced Data: Hima, Kesha
+8. Train and Test the Machine Learning model: Hima, Kesha
+9. Develop presentation: Everyone
 
 ### Files:
 Tableau Dashboard: Global, National, and North Carolina
