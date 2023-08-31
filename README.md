@@ -26,7 +26,7 @@ Descriptive Analysis: diabetes_prediction_dataset.csv, Descriptive_analysis.ipyn
 Machine Learning Model: 
 
 ### Conclusion:
-Through the data analysis presented, there are relationships between variables and diabetes. Age, gender and location can be correlated with diagnosed diabetes. The data analyzed can build a further understanding into diabetes prevalence and predicting diabetes in individuals using demographic and risk factor variables. 
+The data analyzed can build a further understanding into diabetes prevalence and predicting diabetes in individuals using demographic and health variables. Based on the data vizualization and machine learning, there is a positive correlation between HbA1c and blood glucose levels and the risk of diabetes. The Kaggle dataset used was imbalanced. After performing balanced accuracy score using SMOTE for all classification machine learning models, the random forest classifier demonstrated the highest level of accuracy.
 
 ### Links:
 [Presentation](https://docs.google.com/presentation/d/1Fwp0ApqPC1A-W60X4_651ZGxSt-mDuQlyu1uq_cue68/edit?usp=sharing) 
