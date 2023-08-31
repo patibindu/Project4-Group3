@@ -21,9 +21,9 @@ Using data from the World Bank, the IDF Diabetes Atlas, and the CDC, a Tableau d
 ### Files:
 Tableau Dashboard: Global, National, and North Carolina
 
-Descriptive Analysis: diabetes_prediction_dataset.csv, Descriptive_analysis.ipynb, Histogram Images
-
 SQLite: sql.ipynp, diabetes_prediction_sqlite.csv, diabetes_prediction.db, sql.ipynb
+
+Descriptive Analysis: diabetes_prediction_dataset.csv, Descriptive_analysis.ipynb, Histogram Images
 
 Machine Learning Model: diabetes_prediction_dataset.csv, Final_ML.ipynb, ML Images
 
